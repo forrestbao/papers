@@ -1,0 +1,5 @@
+* Zhang, S., & Bansal, M. (2021). Finding a balanced degree of automation for summary evaluation. arXiv preprint arXiv:2109.11503.
+* Min, S., Krishna, K., Lyu, X., Lewis, M., Yih, W. T., Koh, P. W., ... & Hajishirzi, H. (2023). Factscore: Fine-grained atomic evaluation of factual precision in long form text generation. arXiv preprint arXiv:2305.14251.
+* Pan, L., Saxon, M., Xu, W., Nathani, D., Wang, X., & Wang, W. Y. (2024). Automatically Correcting Large Language Models: Surveying the Landscape of Diverse Automated Correction Strategies. Transactions of the Association for Computational Linguistics, 12, 484-506.
+* Gou, Z., Shao, Z., Gong, Y., Shen, Y., Yang, Y., Duan, N., & Chen, W. (2023). Critic: Large language models can self-correct with tool-interactive critiquing. arXiv preprint arXiv:2305.11738.
+* Jiang, D., Li, Y., Zhang, G., Huang, W., Lin, B. Y., & Chen, W. (2023). Tigerscore: Towards building explainable metric for all text generation tasks. arXiv preprint arXiv:2310.00752.
